@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28a84945-77ed-4000-b481-f371b39f3be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azJ4WW1kKygKfWJAWIKF1NVpZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20200420" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a84945-77ed-4000-b481-f371b39f3be2" name="Default Changelist" comment="" />
+      <created>1587732297529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587732297529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="847" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1587865630385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="847" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587865630385" />
+    <state x="695" y="183" key="FileChooserDialogImpl" timestamp="1588038239476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="695" y="183" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588038239476" />
+    <state x="848" y="311" key="Github.ShareDialog" timestamp="1587871039010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="311" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1587871039010" />
+    <state x="575" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1588034805871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588034805871" />
+    <state x="178" y="22" key="new project wizard" timestamp="1587959861093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587959861093" />
+    <state x="586" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587958033351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587958033351" />
+  </component>
+</project>
